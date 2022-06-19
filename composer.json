@@ -1,0 +1,6 @@
+{
+    "require": {
+        "eftec/bladeonehtml": "^2.2",
+        "thingengineer/mysqli-database-class": "dev-master"
+    }
+}
